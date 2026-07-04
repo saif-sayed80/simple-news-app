@@ -2,15 +2,16 @@
 a simple news app made with flutter
 
 # dependeincies 
-BLoC - Predictable and scalable state management.
-Drift – Type-safe local SQLite database.
-GoRouter – Declarative navigation and routing.
+BLoC - Predictable and scalable state management.\
+Drift – Type-safe local SQLite database.\
+GoRouter – Declarative navigation and routing.\
 HTTP – REST API communication.
 
 # Video demo
 url
 
 # Screen shots
-<img width="3072" height="2304" alt="project-1681b1dc-f613-46f2-8a59-c8d471f4c7ad" src="https://github.com/user-attachments/assets/280ff9dc-38bd-4a91-912f-cc09aae8f105" />
-<img width="3072" height="2304" alt="project-64e19d8c-6ef5-49cb-af72-6f4544683179 (3)" src="https://github.com/user-attachments/assets/195a9935-e65a-46a9-b922-7edb02f9ff06" />
-<img width="3072" height="2304" alt="project-64e19d8c-6ef5-49cb-af72-6f4544683179 (1)" src="https://github.com/user-attachments/assets/8959f735-a613-4c08-8b97-77dcb1175072" />
+<img width="3072" height="2304" alt="project-64e19d8c-6ef5-49cb-af72-6f4544683179 (1) (1)" src="https://github.com/user-attachments/assets/ab9dd4ce-5cab-414b-a221-45e4d6cccc29" />
+<img width="3072" height="2304" alt="project-e8991011-29c9-4c03-b328-c2fc6315a20f" src="https://github.com/user-attachments/assets/e844d3f2-9996-42b7-875f-dede8ad4fed4" />
+<img width="3072" height="2304" alt="project-e8991011-29c9-4c03-b328-c2fc6315a20f" src="https://github.com/user-attachments/assets/59dbd8f5-d16d-402c-9bf3-a843ccd63aed" />
+<img width="3072" height="2304" alt="project-e8991011-29c9-4c03-b328-c2fc6315a20f (1)" src="https://github.com/user-attachments/assets/ac389cf4-43d1-4312-9164-81af40515da7" />
