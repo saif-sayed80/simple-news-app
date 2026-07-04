@@ -8,7 +8,7 @@ A simple news app built with Flutter using [News API](https://newsapi.org/) to f
 4- HTTP – REST API communication.
 
 # Video demo
-url
+https://youtu.be/LpJ_pPUZLbc
 
 # Screen shots
 <img width="3072" height="2304" alt="project-64e19d8c-6ef5-49cb-af72-6f4544683179 (1) (1)" src="https://github.com/user-attachments/assets/ab9dd4ce-5cab-414b-a221-45e4d6cccc29" />
