@@ -1,11 +1,11 @@
 # Flutter simple News app
-a simple news app made with flutter
+A simple news app made with Flutter using [News API](https://newsapi.org/) to fetch real-time data
 
-# dependeincies 
-BLoC - Predictable and scalable state management.\
-Drift – Type-safe local SQLite database.\
-GoRouter – Declarative navigation and routing.\
-HTTP – REST API communication.
+# Packages
+1- BLoC – Predictable and scalable state management.\
+2- Drift – Type-safe local SQLite database.\
+3- GoRouter – Declarative navigation and routing.\
+4- HTTP – REST API communication.
 
 # Video demo
 url
