@@ -1,5 +1,5 @@
 # Flutter simple News app
-A simple news app made with Flutter using [News API](https://newsapi.org/) to fetch real-time data
+A simple news app built with Flutter using [News API](https://newsapi.org/) to fetch real-time data
 
 # Packages
 1- BLoC – Predictable and scalable state management.\
